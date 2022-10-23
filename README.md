@@ -36,3 +36,10 @@
     print("variabel b=",b)
     print("hasil penjummlahan a+b=",a+b)
 ![Gambar 4](Latihan/SS4.png)
+#### Latihan 3
+    • Menjalankan IDLE
+    • Membuat file baru dengan nama latihan3.py (pastikan lokasi file
+    pada folder lab2py pada direktori kerja anda)
+    • Menggunakan fungsi input untuk mengambil nilai variabel dari
+    keyboard.
+![Gambar 5](Latihan/SS5.png)
