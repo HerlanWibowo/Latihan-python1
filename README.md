@@ -20,5 +20,6 @@
     print("Hello",nama,"Umur saya",umur,"tahun")
 #### Latihan1
     • Menjalankan Python Console
-• Menampilkan tulisan “Hello” dilayar
-• Menampilkan tulisan “Saya sedang belajar python” dilayar
+    • Menampilkan tulisan “Hello” dilayar
+    • Menampilkan tulisan “Saya sedang belajar python” dilayar
+![Gambar3](Latihan/SS3.png)
