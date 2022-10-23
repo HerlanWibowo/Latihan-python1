@@ -44,3 +44,9 @@
     keyboard.
 ![Gambar 5](Latihan/SS5.png)
 ![Gambar 6](Latihan/SS6.png)
+#### Pycharm
+![Gambar 7](Latihan/SS7.png)
+#### Vitual Environtment Pycharm
+![Gambar 8](Latihan/SS8.png)
+#### membuat file baru
+![Gambar 9](Latihan/SS9.png)
