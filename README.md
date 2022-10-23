@@ -18,8 +18,21 @@
     umur = input("Umur saya :")
     #Menampilkan output
     print("Hello",nama,"Umur saya",umur,"tahun")
-#### Latihan1
+#### Latihan 1
     • Menjalankan Python Console
     • Menampilkan tulisan “Hello” dilayar
     • Menampilkan tulisan “Saya sedang belajar python” dilayar
 ![Gambar3](Latihan/SS3.png)
+#### Latiihan 2
+    • Menjumlahkan dua buah bilangan menggunakan variabel a dan b.
+    • Mendefinisikan variable a dengan nilai 8
+    • Mendefinisikan variable b dengan nilai 6
+    • Mencetak nilai variable a dan b
+    • Mencetak hasil penjumlahan a+b
+    
+    a=8
+    b=6
+    print("variabel a=",a)
+    print("variabel b=",b)
+    print("hasil penjummlahan a+b=",a+b)
+![Gambar 4](Latihan/SS4.png)
