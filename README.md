@@ -43,3 +43,4 @@
     • Menggunakan fungsi input untuk mengambil nilai variabel dari
     keyboard.
 ![Gambar 5](Latihan/SS5.png)
+![Gambar 6](Latihan/SS6.png)
