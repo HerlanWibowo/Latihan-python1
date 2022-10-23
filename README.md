@@ -8,4 +8,4 @@
     menyediakannya secara default.
     • Bagi pengguna Windows, Download di situs resmi
     python (python.org). Ikuti langkah instalasinya.
-   ![Gambar 1](Latihan/SS1.PNG)
+![Gambar 1](Latihan/SS1.PNG)
